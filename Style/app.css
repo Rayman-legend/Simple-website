@@ -273,6 +273,8 @@ body{
     color: #081d43;
     text-transform: capitalize;
     word-spacing: 1px;
+    font-family: "TTNorms Medium";
+    font-weight: normal;
 }
 .portfolio-item{
     overflow: hidden;
@@ -300,4 +302,68 @@ body{
 }
 .img-items-main__part02:hover{
     transform: scale(1.06313);
+}
+.top-footer__blue-bg{
+    min-width: 100%;
+    background-color: #2f5bea;
+    padding: 90px 0;
+}
+.container-footer-content__top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#contact_footer-bold__h2{
+    color: #fff;
+    font-family: "TTNorms Medium";
+    font-weight: normal;
+    word-spacing: 1px;
+}
+.input-email-adderss__footer{
+    display: flex;
+    align-items: center;
+    flex-basis: 290px;
+    min-height: 45px;
+    background-color: #fff;
+    padding: 2px;
+    position: relative;
+    border-radius: 7px;
+    overflow: hidden;
+}
+.input-normal__footer-email{
+    position: absolute;
+    left: 20px;
+    height: 70%;
+    width: 70%;
+    border: none;
+    outline: none;
+}
+.icon-email__footer{
+    position: absolute;
+    right: 5px;
+    padding:10px 15px;
+    background-color: #2f5bea;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    transition: all 0.4s ease-in;
+}
+.container-footer-content__bottom{
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.icon-email__footer:hover{
+    background-color: #00b487;
+}
+#footer-bottom-left-content-child,  
+#footer-bottom-right-content-child{
+    color: #434955;
+    text-transform: capitalize;
+    font-family: "TTNorms Light";
 }
