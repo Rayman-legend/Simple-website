@@ -115,7 +115,7 @@ body{
     height: 100%;
 }
 .container__button-bottom__header{
-    margin-top: 18px;
+    margin-top: 2rem;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -145,7 +145,7 @@ body{
 }
 .work-container{
     text-align: center;
-    padding-top: 120px;
+    padding: 5rem 0;
 }
 .word-txt__top-gray{
     color: #6c7890;
@@ -188,7 +188,7 @@ body{
 .main-section{
     background-color: #2f5bea;
     width: 100%;
-    padding: 38px 0 38px 0;
+    padding: 5rem 0;
 }
 .main__section-h2-title__top, 
 .person-comments__text{
@@ -259,8 +259,11 @@ body{
 .user-profile__image-01{
     cursor: pointer;
 }
+.container-protolio-main{
+    padding: 5rem 0;
+}
 .container-text_main--part02{
-    margin: 90px auto 41px auto;
+    margin-bottom: 40px;
     text-align: center;
 }
 #title-text_h5-gray__main-part02{
@@ -291,12 +294,13 @@ body{
     align-content: flex-start;
     flex-flow: row wrap;
     gap: 17px;
-    margin-bottom: 60px;
     max-width: 100%;
 }
 .img-items-main__part02{
     border-radius: 7px;
     width: 100%;
+    height: 100%;
+    object-fit: cover;
     transition: all 0.6s ease;
     filter: drop-shadow(1px 3px 4px #cbcbcb);
 }
