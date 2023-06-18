@@ -1,6 +1,6 @@
 <center><h1>In the Name Of God</h1></center>
 <h2>Single page responsive website project</h2>
-<br>
+<h5>Free to the public</h5>
 - - - - - - - - - - - - - - - - - - -
 <br>
 Developer : Hojjat Hekmatipour 
@@ -8,6 +8,7 @@ Developer : Hojjat Hekmatipour
 <bold>
 - - - - - - - - - - - - - - - - - - -  
 </bold>
+<br>
 <br>
 Attributes : 
 <br>
@@ -17,7 +18,6 @@ Attributes :
   <li>Responsive</li>
   <li>Light code and fast execution</li>
 </ul>
-<br>
 - - - - - - - - - - - - - - - - - - - 
 <br>
 Contact with me : 
