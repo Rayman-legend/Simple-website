@@ -1,4 +1,4 @@
-<center><h1>In the Name Of God</h1></center>
+<h1>In the Name Of God</h1>
 <h2>Single page responsive website project</h2>
 <h5>Free to the public</h5>
 - - - - - - - - - - - - - - - - - - -
