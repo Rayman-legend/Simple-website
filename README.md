@@ -5,7 +5,7 @@
 -  **🆓Free to the public**
  
 - - - - - - - - - - - - - - - - - - -  
-🔰 Attributes : 
+🛠️ Attributes : 
 <br>
 <ul>
   <li>Clean coding and easy to understand for the audience</li>
