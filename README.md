@@ -15,7 +15,7 @@
   <li>Light code and fast execution</li>
 </ul>
 <br>
-👁️‍🗨️ <a href="https://rayman-legend.github.io/Single-page-responsive-website-project__01/">Preview This Page</a>
+👁️‍🗨️ <a href="https://rayman-legend.github.io/Simple-website/">Preview This Page</a>
 <br><br>
 - - - - - - - - - - - - - - - - - - - 
 <h3 align="left">Connect with me:</h3>
